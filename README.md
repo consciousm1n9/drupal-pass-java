@@ -5,4 +5,4 @@ Clear explanation for Drupal password processing:
 https://stackoverflow.com/questions/5031662/what-is-drupals-default-password-encryption-method/5031742
 
 Online test:
-jdoodle.com/ia/oUZ
+https://www.jdoodle.com/ia/oUZ
