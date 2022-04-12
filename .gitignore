@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+drupal-pass/.vscode/*
+drupal-pass/README*
 # Log file
 *.log
 
