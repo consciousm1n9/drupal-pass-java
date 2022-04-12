@@ -4,5 +4,5 @@ Drupal password processing in java. Works in Drupal v7, 8, 9.  Change password d
 Clear explanation for Drupal password processing:
 https://stackoverflow.com/questions/5031662/what-is-drupals-default-password-encryption-method/5031742
 
-Online test:
-https://www.jdoodle.com/ia/oUZ
+Test online:
+jdoodle.com/a/4CxF
