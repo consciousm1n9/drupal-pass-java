@@ -8,7 +8,7 @@ Guide
 4. NECESARY ONLY FOR DRUPALv9. Delete records in 'cache_entity' table where 'cid' column starts with "value:user*". Save.
 5. Log in using password update in last steps and that's it.
 
-https://user-images.githubusercontent.com/67773113/163121044-a409c09f-acd0-4aa4-8c83-33f13378ab72.mp4
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67773113/177851342-9041de25-a145-4aa1-a0eb-4d9b42443aa9.gif)
 
 Clear explanation for Drupal password processing:
 https://stackoverflow.com/questions/5031662/what-is-drupals-default-password-encryption-method/5031742
